@@ -7,7 +7,7 @@ The pipeline then goes on to look at correlation between specific microorganisms
 To run:
 
 Download sample data from: https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-016-0708-5
-The data used is 'Additional File 3', available to download as an Excel Workbook from the link above (found at the end of the paper, following the acknowledgements and author information. 
+The data used is 'Additional File 3', available to download as an Excel Workbook from the link above (found at the end of the paper, following the acknowledgements and author information). This dataset is also available in my GitHub directory. 
 This file must be saved as a csv named 'microbiome data' and saved in the same directory as the code. 
 
 Libraries to be installed: pandas, matplotlib, sklearn and seaborn are used throughout the pipeline.
