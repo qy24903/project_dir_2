@@ -14,6 +14,8 @@ Libraries to be installed: pandas, matplotlib, sklearn and seaborn are used thro
 
 The code can now be run. 
 
+The output of this code should be a cleaned and refined dataset, that can be plotted to show change in abundance of microbiome components with age. Correlation analysis is carried out, a linear regression model is set up and tested using a subset of the data. 
+
 By default, this pipeline uses genus and family taxonomic classification as unique identifiers to look at change in abundance of individual microorganisms. 
 The pipeline could be amended to look at a different level of classification, such as phylum. 
 The pipeline also uses a linear regression model to investigate the relationship between Ruminococcaceae Ruminococcus abundance and age. 
